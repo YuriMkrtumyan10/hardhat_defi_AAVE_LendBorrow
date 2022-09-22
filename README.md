@@ -1,3 +1,3 @@
-Deposit Collateral: ETH / WETH \n
-Borrow another asset: DAI (stablecoin) \n
+Deposit Collateral: ETH / WETH
+Borrow another asset: DAI (stablecoin) 
 Repay the DAI
